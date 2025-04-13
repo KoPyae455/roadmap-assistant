@@ -1,0 +1,24 @@
+{
+    "beginner": [
+      "Learn what programming is",
+      "Learn HTML Basics",
+      "Learn CSS Basics",
+      "Create your first webpage",
+      "Learn basic JavaScript"
+    ],
+    "web_dev": [
+      "Master HTML5 & Semantic Tags",
+      "CSS Layout: Flexbox, Grid",
+      "JavaScript DOM Manipulation",
+      "Git & GitHub",
+      "React Basics"
+    ],
+    "ai_path": [
+      "Learn Python Basics",
+      "Learn NumPy",
+      "Learn Pandas",
+      "Intro to Machine Learning",
+      "Train your first AI model"
+    ]
+  }
+  

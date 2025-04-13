@@ -1,0 +1,17 @@
+{
+    "Learn what programming is": "Programming is the process of creating a set of instructions that tell a computer how to perform a task.",
+    "Learn HTML Basics": "HTML is the standard markup language used to create web pages. It defines the structure of a webpage using tags.",
+    "Learn CSS Basics": "CSS is used to style HTML elements. It controls the layout, colors, fonts, and overall appearance.",
+    "Create your first webpage": "Combining HTML and CSS, you can build a basic webpage that displays content and styles.",
+    "Learn basic JavaScript": "JavaScript is a programming language that lets you add interactivity to your website, like buttons and animations.",
+    "Master HTML5 & Semantic Tags": "HTML5 introduces new elements and attributes that help structure your content semantically.",
+    "CSS Layout: Flexbox, Grid": "Flexbox and Grid are CSS layout models that allow you to create complex layouts easily.",
+    "JavaScript DOM Manipulation": "The Document Object Model (DOM) represents the structure of a webpage. JavaScript can manipulate it to change content dynamically.",
+    "Git & GitHub": "Git is a version control system that tracks changes in your code. GitHub is a platform for hosting and collaborating on Git repositories.",
+    "React Basics": "React is a JavaScript library for building user interfaces. It allows you to create reusable components.",
+    "Learn Python Basics": "Python is a beginner-friendly programming language. It is widely used for web development, data science, and AI.",
+    "Learn NumPy": "NumPy is a Python library used for working with arrays. It is essential for mathematical and scientific computing.",
+    "Learn Pandas": "Pandas is a Python library for data manipulation and analysis. It allows you to work with data in tables and spreadsheets.",
+    "Intro to Machine Learning": "Machine Learning allows computers to learn from data and make predictions. It is a core part of AI.",
+    "Train your first AI model": "You can train your first AI model using Python libraries like Scikit-learn or TensorFlow by feeding labeled data into an algorithm." 
+}

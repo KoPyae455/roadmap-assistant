@@ -1,0 +1,19 @@
+{
+    "en": {
+      "title": "AI Roadmap Assistant",
+      "question": "What are you interested in learning?",
+      "select_path": "Select your path",
+      "get_roadmap": "Get My Roadmap",
+      "your_roadmap": "Your Personalized Roadmap",
+      "explain": "Explain"
+    },
+    "mm": {
+      "title": "AI လမ်းညွှန် မိတ်ဆွေ",
+      "question": "သင်ဘာကို လေ့လာချင်ပါသလဲ?",
+      "select_path": "သင်တန်းလမ်းကို ရွေးပါ",
+      "get_roadmap": "လေ့လာဖို့ လမ်းညွှန်ပါ",
+      "your_roadmap": "သင့်ကိုသီးသန့် လမ်းညွှန်",
+      "explain": "ရှင်းပြပါ"
+    }
+  }
+  
